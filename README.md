@@ -5,8 +5,8 @@
 #Prérequis :
 #-Un disque (C:)
 #-Un disque (D:)
-#
-#Pour executer correctement ce script, veuillez copier le dossier et le script souche à la racine de votre disque (D:).
+#Pour executer correctement ce script, veuillez copier le dossier et le script "ConfpcV1" souche à la racine de votre disque (D:).
+#Exectuer le script en Administrateur du poste et executer PowerShell en Admin
 #
 #Options présentes :
 #
