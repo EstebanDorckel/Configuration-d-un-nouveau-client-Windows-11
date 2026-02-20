@@ -1,4 +1,5 @@
 # Configuration-d-un-nouveau-client-Windows-11
+#
 #Ces scripts PowerShell vous serviront à configurer proprement un client sous Windows 11 en utilisant une interface intuitive via PowerShell.
 #
 #Prérequis :
@@ -16,9 +17,6 @@
 #Désactivation de l'IPv6
 #Activation du clavier type "Franco/Belge"
 #Ajout des imprimantes réseaux ou locales
-#
-#
-#
 #
 #LOGICIEL :
 #Installation de ESET Antivirus puis vérification de la version et de l'activité (attention pensez à prendre une licence)
