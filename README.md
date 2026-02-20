@@ -1,4 +1,4 @@
-# Configuration-d-un-nouveau-client-Windows-11
+# Configuration-client-Windows-11
 #
 #Ces scripts PowerShell vous serviront à configurer proprement un client sous Windows 11 en utilisant une interface intuitive via PowerShell.
 #
