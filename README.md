@@ -6,7 +6,7 @@
 #-Un disque (C:)
 #-Un disque (D:)
 #
-#Pour executer correctement ce script, veuillez copier le dossier et le scripte souche à la racine de votre disque (D:).
+#Pour executer correctement ce script, veuillez copier le dossier et le script souche à la racine de votre disque (D:).
 #
 #Options présentes :
 #
